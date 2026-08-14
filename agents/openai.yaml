@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZZZ Code Constraints"
+  short_description: "Keep plans and code clear, compact, and well-commented"
+  default_prompt: "Use $zzz-code-constraints to apply $karpathy-guidelines and the personal rules for an explicit plan and simple, readable, well-commented code."
