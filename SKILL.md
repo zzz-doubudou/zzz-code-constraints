@@ -5,9 +5,7 @@ description: Apply karpathy-guidelines as the general coding standard and add pe
 
 # Concise Code Constraints
 
-Apply this skill as a passive constraint layer whenever it is selected for a source-code task. Do not initiate, select, or require a workflow or another skill. If the task is also being handled by `$ask-matt` or another technical skill, keep this skill's rules as additional constraints. Apply **`$karpathy-guidelines`** as the general coding standard and apply the rules below as personal additions. Keep the solution minimal, explicit, readable, and easy to review.
-
-This skill does not automatically invoke `$ask-matt`. Use `$ask-matt` separately only when the user explicitly requests skill or workflow selection.
+Apply this skill to source-code tasks, especially during design, plan generation, implementation, testing, database script generation, business interaction, refactoring, and code review. Apply **`$karpathy-guidelines`** as the general coding standard and apply the rules below as personal additions. Keep the solution minimal, explicit, readable, and easy to review.
 
 ## Plan Stage
 
