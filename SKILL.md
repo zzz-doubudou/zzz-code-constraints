@@ -36,8 +36,9 @@ Do not pause, refactor, or ask the user to decide solely because a count or dept
 
 ## Comments and Validation
 
-- Add or update comments for public APIs, business boundaries, non-obvious state, important invariants, failure behavior, algorithms, and compatibility workarounds.
-- Follow repository conventions. Do not add comments that merely repeat obvious code.
+- Add or update useful comments for methods, properties, and constants, following repository conventions and the language's documentation style.
+- Add comments inside methods for non-obvious business decisions, state changes, exception handling, algorithms, important invariants, and compatibility workarounds.
+- Do not add comments that merely repeat obvious code, and update comments that become inaccurate.
 - Run validation proportionate to the change risk. If a relevant check is not run, state why.
 - For conditional rules, read only the matching reference below.
 
